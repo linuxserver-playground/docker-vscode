@@ -8,8 +8,9 @@ summary: |-
 upstream:
   url: https://code.visualstudio.com/
   version:
-    type: command
-    run: curl -sL https://update.code.visualstudio.com/api/releases/stable | awk -F'"' '{print $2}'
+    type: json
+    url: https://update.code.visualstudio.com/api/releases/stable
+    jq: .[0]
 
 release:
   branch: master
