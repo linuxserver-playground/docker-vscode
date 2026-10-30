@@ -11,6 +11,9 @@ upstream:
     type: json
     url: https://update.code.visualstudio.com/api/releases/stable
     jq: .[0]
+  notes:
+    type: github_release
+    repo: microsoft/vscode
 
 release:
   branch: master
