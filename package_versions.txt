@@ -6,7 +6,7 @@ NAME                                                                          VE
 @vscode/copilot-typescript-server-plugin                                      1.0.0                                  npm                              
 @vscode/fs-copyfile                                                           2.0.0                                  npm                              
 @vscode/sandbox-runtime                                                       0.0.1                                  npm                              
-Code                                                                          1.145.0                                npm                              
+Code                                                                          1.145.1                                npm                              
 FreeType                                                                      2.14.3                                 UnknownPackage                   
 FriBiDi                                                                       1.0.17                                 UnknownPackage                   
 HarfBuzz                                                                      14.5.0                                 UnknownPackage                   
@@ -79,7 +79,7 @@ cloud.google.com/go/logging                                                   v1
 cloud.google.com/go/longrunning                                               v1.2.0                                 go-module                        
 cmake                                                                         3.31.6-2                               deb                              
 cmake-data                                                                    3.31.6-2                               deb                              
-code                                                                          1.145.0-1793749366                     deb                              
+code                                                                          1.145.1-1793903106                     deb                              
 code.cloudfoundry.org/clock                                                   v1.60.0                                go-module                        
 coffeescript                                                                  10.0.0                                 npm                              
 commander                                                                     12.1.0                                 npm                              
